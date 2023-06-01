@@ -1,28 +1,23 @@
 {
   "files": {
-    "main.css": "/young_stars/static/css/main.e34975e6.css",
-    "main.js": "/young_stars/static/js/main.1417c7c7.js",
-    "static/js/787.b2f36975.chunk.js": "/young_stars/static/js/787.b2f36975.chunk.js",
-    "static/media/AR.png": "/young_stars/static/media/AR.05184cf5f5f3d9f99b6e.png",
-    "static/media/P.png": "/young_stars/static/media/P.0bf799fe1f5f79814d30.png",
-    "static/media/D.png": "/young_stars/static/media/D.a917095ac52de2dd5eb7.png",
-    "static/media/R.png": "/young_stars/static/media/R.f03310bb43f7e8d1977f.png",
-    "static/media/A.png": "/young_stars/static/media/A.04011b3c1f3fb8f7494d.png",
-    "static/media/websiteLogo.png": "/young_stars/static/media/websiteLogo.385420744b772df2dddc.png",
-    "static/media/M.png": "/young_stars/static/media/M.82ae2afbaa640a950658.png",
-    "static/media/Footerlogo.png": "/young_stars/static/media/Footerlogo.e3b6d6e452deb05066be.png",
-    "static/media/B.png": "/young_stars/static/media/B.ae546dc6ece903c521a4.png",
-    "static/media/slick.svg": "/young_stars/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/young_stars/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/young_stars/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/young_stars/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/young_stars/index.html",
-    "main.e34975e6.css.map": "/young_stars/static/css/main.e34975e6.css.map",
-    "main.1417c7c7.js.map": "/young_stars/static/js/main.1417c7c7.js.map",
-    "787.b2f36975.chunk.js.map": "/young_stars/static/js/787.b2f36975.chunk.js.map"
+    "main.css": "/abc_123.git/static/css/main.34542476.css",
+    "main.js": "/abc_123.git/static/js/main.102dc0a0.js",
+    "static/js/787.4aad1aee.chunk.js": "/abc_123.git/static/js/787.4aad1aee.chunk.js",
+    "static/media/Artificial Intelligence.png": "/abc_123.git/static/media/Artificial Intelligence.05184cf5f5f3d9f99b6e.png",
+    "static/media/Programming.png": "/abc_123.git/static/media/Programming.0bf799fe1f5f79814d30.png",
+    "static/media/Young Stars Mission.png": "/abc_123.git/static/media/Young Stars Mission.a917095ac52de2dd5eb7.png",
+    "static/media/Robotics.png": "/abc_123.git/static/media/Robotics.f03310bb43f7e8d1977f.png",
+    "static/media/Technical Development.png": "/abc_123.git/static/media/Technical Development.04011b3c1f3fb8f7494d.png",
+    "static/media/websiteLogo.png": "/abc_123.git/static/media/websiteLogo.385420744b772df2dddc.png",
+    "static/media/testimonial_image.png": "/abc_123.git/static/media/testimonial_image.82ae2afbaa640a950658.png",
+    "static/media/Mental Development.png": "/abc_123.git/static/media/Mental Development.ae546dc6ece903c521a4.png",
+    "index.html": "/abc_123.git/index.html",
+    "main.34542476.css.map": "/abc_123.git/static/css/main.34542476.css.map",
+    "main.102dc0a0.js.map": "/abc_123.git/static/js/main.102dc0a0.js.map",
+    "787.4aad1aee.chunk.js.map": "/abc_123.git/static/js/787.4aad1aee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e34975e6.css",
-    "static/js/main.1417c7c7.js"
+    "static/css/main.34542476.css",
+    "static/js/main.102dc0a0.js"
   ]
 }
